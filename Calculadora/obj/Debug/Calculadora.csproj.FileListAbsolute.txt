@@ -1,0 +1,27 @@
+c:\users\hp 2018\documents\visual studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\1er Parcial\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\1er Parcial\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\1er Parcial\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\1er Parcial\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\1er Parcial\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\1er Parcial\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Estructuras de Datos\1er Parcial\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Estructuras de Datos\1er Parcial\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Hp 2018\Documents\Visual Studio 2012\Projects\Estructuras de Datos\1er Parcial\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Hp 2018\Desktop\Universidad\Projects\Estructuras de Datos\1er Parcial\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Hp 2018\Desktop\Universidad\Projects\Estructuras de Datos\1er Parcial\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Hp 2018\Desktop\Universidad\Projects\Estructuras de Datos\1er Parcial\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Hp 2018\Desktop\Universidad\Projects\Estructuras de Datos\1er Parcial\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Hp 2018\Desktop\Universidad\Projects\Estructuras de Datos\1er Parcial\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Hp 2018\Desktop\Universidad\Projects\Estructuras de Datos\1er Parcial\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Estructuras de Datos\1er Parcial\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Estructuras de Datos\1er Parcial\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Estructuras de Datos\1er Parcial\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Estructuras de Datos\1er Parcial\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Estructuras de Datos\1er Parcial\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Mario\OneDrive\Escritorio\ICO-901\Projects\Estructuras de Datos\1er Parcial\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
